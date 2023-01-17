@@ -310,8 +310,7 @@ async def _(event):
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
 - Done ↣ (@{username})
-- By ↣ @iziii - @zbaak !
-- Hunting History ↣ {Hussenk}
+- By ↣ @G_5_7 - @Y_u_8 - Hunting History ↣ {Hussenk}
 - Hunting Hour ↣ {Levii}
     ''')
                         break
@@ -344,7 +343,7 @@ async def _(event):
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
 - Done ↣ (@{username})
-- By ↣ @iziii - @zbaak !
+- By ↣ @G_5_7 - @Y_u_8 !
 - Hunting History ↣ {Hussenk}
 - Hunting Hour ↣ {Levii}
     ''')
